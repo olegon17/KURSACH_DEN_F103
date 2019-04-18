@@ -1,0 +1,1 @@
+volatile int D1=0,D2=0,D3=0,D4=0,RESULT,num=0;
